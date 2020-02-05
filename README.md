@@ -1,7 +1,6 @@
-# oss-template
-Template for Veson Open Sourced repositories
+# Veson Open-Source Template &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)] [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]
 
-# DELETE THE CONTENTS OF THIS FILE AND UPDATE WITH YOUR OWN README
+This repo is a template for Veson Open Sourced repositories
 
 Instructions for open-sourcing your code at Veson:
 --------------------------------------------------
@@ -11,7 +10,8 @@ Instructions for open-sourcing your code at Veson:
 1. Copy the files in this repo to your repo
 
 2. Edit this README file to describe the code project you're releasing. Look to other open
-source projects for examples of good README files.
+source projects for examples of good README files, for example https://github.com/facebook/react
+I suggest keeping the badges in the title, as they're kind of cool :)
 
 3. Update the CONTRIBUTING file with the name of your repo and link to the CLA in your own repo
 
@@ -20,3 +20,6 @@ source projects for examples of good README files.
 5. Update AUTHORS with the authors who've worked on the project so far. We suggest you use your work email address.
 
 6. Go forth and prosper!
+
+
+
